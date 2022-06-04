@@ -43,5 +43,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://booking-app-backend-404.herokuapp.com/"
+  "proxy": "https://booking-app-backend-404.herokuapp.com/api"
 }
